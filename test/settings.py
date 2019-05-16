@@ -25,7 +25,7 @@ SECRET_KEY = 'ld5s*@*9r!@p&r)b8dk6ucos75la=w$0xcaw0#62cpqo_3n=y$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sqlinux.azurewebsites.net', '127.0.0.1']
+ALLOWED_HOSTS = ['sqlinux.azurewebsites.net', '127.0.0.1', 'djangoqs.azurewebsites.net']
 
 
 # Application definition
